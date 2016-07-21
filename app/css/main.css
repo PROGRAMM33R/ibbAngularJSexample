@@ -1,0 +1,17 @@
+.page {
+    width: 1600px;
+    margin: 0 auto;
+}
+
+.orderLink {
+    cursor: hand;
+    cursor: pointer;
+}
+
+.tableHead {
+    border-bottom: 3px solid rgb(240, 240, 240);
+}
+
+.addRow {
+    background-color: rgb(240, 240, 240);
+}
